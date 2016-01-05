@@ -1,0 +1,48 @@
+file found
+rom size: 12582912 bytes (or 12 Mb or 96 Megabits)
+rom loaded succesfully
+80 37 12 40
+ClockRate=f
+Version:1446
+CRC: 3e5055b6 2e92da52
+name: MARIOKART64         
+Manufacturer: Nintendo
+Cartridge_ID: 544b
+Country : United States
+size: 4096
+PC= 80000400
+md5 code:3A67D9986F54EB282924FCA4CD5F6DFF
+eeprom type:0
+memory initialized
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
+
+ABI set to AutoDetect
